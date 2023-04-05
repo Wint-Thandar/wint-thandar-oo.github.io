@@ -1,1 +1,2 @@
-# wint-thandar-oo.github.io
+# Portfolio Site
+This is the project repo of my personal portfolio site [wint-thandar-oo.github.io](https://wint-thandar-oo.github.io/). Projects related to data analysis are uploaded here to showcase as part of my portfolio. 
